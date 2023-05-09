@@ -1,0 +1,4 @@
+_id,expenseName,addedDate,totalAmount,notes,archive,category,userId,__v
+"6459d55512f91a93637a0df5","Games","2018-03-29T08:04:00.000Z",60,"Mass Effect",true,"Entertainment","6458ca51efbd0d8c85ec8083",0
+"6459d59e12f91a93637a0df9","Breakfast","2018-03-29T08:04:00.000Z",500,"Yummy",true,"Food","6458ca51efbd0d8c85ec8083",0
+"645a0dfbd5e7a6fa17740e6c","Playing","2018-03-29T08:04:00.000Z",200,"Tired",true,"Entertainment","6458ca51efbd0d8c85ec8083",0
